@@ -1,6 +1,6 @@
-# ZoomTrack
+# FocusTrack
 
-This is the official implementation for the paper [FocusTrack: A Self-Adaptive Local Sampling Algorithm for Efficient Anti-UAV Tracking](https://arxiv.org/abs/2310.10071)
+This is the official implementation for the paper [FocusTrack: A Self-Adaptive Local Sampling Algorithm for Efficient Anti-UAV Tracking](https://arxiv.org/abs/2504.13604)
 
 
 
